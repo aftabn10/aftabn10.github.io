@@ -94,6 +94,9 @@ publishing:
     seo:
         title: Dendron
         description: Personal Knowledge Space
+    site:
+        assetsPrefix: Dendron-Sample-Site
+        siteUrl: https://aftabn10.github.io/
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
